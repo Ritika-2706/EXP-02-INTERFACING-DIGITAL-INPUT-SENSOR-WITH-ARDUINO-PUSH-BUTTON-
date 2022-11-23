@@ -103,3 +103,5 @@ Output of the simulation :
 
 ![OUTPUT](.//SS1.png)
 
+Result:
+ The given experiment has been done in TINKERCAD using ARDUINO.
